@@ -68,7 +68,7 @@ A tabela abaixo apresenta algumas das principais categorias do Azure e seus resp
 
 ---
 
-## **🎯 Conclusão:
+## 🎯 Conclusão:
 
 A organização de serviços por categoria no **Microsoft Azure** facilita a navegação e otimiza a gestão dos recursos disponíveis na plataforma. Ao compreender como acessar e localizar esses serviços, os usuários podem melhorar a eficiência operacional, reduzir tempo de configuração e garantir um melhor desempenho para suas aplicações.  
 
